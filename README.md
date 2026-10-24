@@ -1,12 +1,11 @@
 # DC-Position-Control-System
 ## Aim:
 To control the position of motor having the following specifications using MATLAB.<br>
-(J)     moment of inertia of the rotor =    0.02 kg.m^2<br>
-(b)     motor viscous friction constant =    0.002 N.m.s<br>
-(Ktf)    motor torque constant   =           1.5 N.m/Amp<br>
-(Ra)    armature resistance  =              2 Ohm<br>
-(La)     armature inductance  =              0.5 H<br>
-(Kb)      back emf constant = 0.5<br>
+(J) moment of inertia of the rotor = 3.2284E-6 kg.m^2<br>
+(b) motor viscous friction constant = 3.5077E-6 N.m.s<br>
+(Kt) motor torque constant = 0.0274 N.m/Amp<br>
+(R) electric resistance = 4 Ohm<br>
+(L) electric inductance = 2.75E-6H<br>
 ## Apparatus Required:
 Computer with MATLAB software
 ## Theory: 
